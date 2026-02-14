@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "社会の窓と同じ構成",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-02-14T15:46:53.581300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "社会の窓と同じ構成",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_社会の窓と同じ構成_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "社会の窓と同じ構成 - Shakaino Madoto Onaji Kousei",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_社会の窓と同じ構成_-_Shakaino_Madoto_Onaji_Kousei_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "社会の窓と同じ構成",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/03_社会の窓と同じ構成_Creep_Hyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "社会の窓と同じ構成",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_社会の窓と同じ構成_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "社会の窓と同じ構成",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_社会の窓と同じ構成_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "社会の窓と同じ構成",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_社会の窓と同じ構成_クリープハイプ.txt"
+    }
+  ]
+}
